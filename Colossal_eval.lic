@@ -1,0 +1,32 @@
+Licensee: brandi@colossal.com
+Expiration: 2021-12-31
+MachineID: localhost:8990
+Master: master.sentieon.com:443
+Groups: suite=128
+LicenseKey: EVAL0-CWVTK-DJUBE-GRJWW-LHBUV
+Signature: MEQCIHOXVjxvWSPxgpo/0Bpm01a4+6t9s2YniCIStmt/owFvAiBTG7nNmr7l8L1Bu/xh4FyeGCSs5VkVQ/0+xB5st2ryVQ==
+
+sentieon	klib	suite	2021-12-31	MEQCIHPYZdVHntaCNJJw4KSIjIQh50TTGFP0EPW04n6pztEXAiAyPRuESwlYgb2HdVHgtEf4apeWivw6kxvAKzNKHR0kXQ==
+sentieon	star	suite	2021-12-31	MEYCIQC8+fswCDH6tZxYG8Ab08qlgabTamu5gV+sQtY7X2SUPwIhANKIXMnpvk24PD+cKN9WMfUDJVfHig5djpio6pBUMGSS
+sentieon	minimap2	suite	2021-12-31	MEUCIQCUHWa3qu79yF9HP5BEhcfMg9SGRQgfzB3864Ym1mnJkwIgPlhcpHm0Gik1QdN32dELVbFSQzIkFz/8/dtdmXlbUeM=
+sentieon	util	1	2021-12-31	MEUCIQCgqoBxurIOTfixhFFWv2V7TtI0OFLhtLxr2B2/85TCjQIgM4d3pTPSw1D/YvqOHmzZoZkv4ZEfBsCrg+AHcJ8xb+8=
+sentieon	UMI	suite	2021-12-31	MEYCIQDhjRZr6Q+L1kfEQETIPgqVzpg57gsBMpxOLbPLBw/AogIhAOd+kxAr8N7yYpvRAOC+Fd2+NSvSCS04wF2Dws3GL5tC
+sentieon	Metrics	suite	2021-12-31	MEQCIFhCvD+m7BwxdSlSpzljevbZl/eHAOELLD5uSGa8ZXr7AiAwbKXa8ICwSH/LJu+LUTd9YoWXvTqIfH/ehxCFScaeXQ==
+sentieon	Dedup	suite	2021-12-31	MEUCIQDbL4CD1TJCPxfEKhtpG3ehlQqh4ClHIeTptvhJA2x3CwIgTv6agEzkdQoEmo1dfqU2D2m2bhrSiSm6nP4ozo7fUOo=
+sentieon	Realigner	suite	2021-12-31	MEUCIQDFHyZME3Ji/bPW7vX0ro4cpQc3pC05hlShIRlrS+GaowIgF492OI726LbmbVIlP45987NWoeGhqDrSxEAPRfVoltw=
+sentieon	QualCal	suite	2021-12-31	MEUCIQDAINvqNaz2Q8v6IlMn5fe3qXzcukbpCVTHUOjob5KAkwIgBaynKSUgOu+YUJeQ6vKyFJnGGN4vwYStWy92m+Q2HFE=
+sentieon	ReadWriter	suite	2021-12-31	MEUCIDlVh2js1fYLh11FPLGg+VtEzEVjP2lbcoawlHyzxmHZAiEAhJKAA/Ou9CgQwrFPOH1KMAKJo1R/I6mn/scuwQoHOQA=
+sentieon	VariantPhaser	suite	2021-12-31	MEUCIBRCSIybmJueRNNw9yjaMaTyvLakb60T4bvlqTlniXQaAiEA6sPDf2ZGcf/lH6BsU1xgg0aDquuTpNB2Opt8X2oO9ws=
+sentieon	Genotyper	suite	2021-12-31	MEUCIQDb9vR7FF4nJG1bcAtpv2dxO+Y4KgTJZfOWPLh/2lXEMwIgKNqLZ2U4F+ChnN3uRkcLRn/jSNW8UYzmANWgx2OwkiM=
+sentieon	Haplotyper	suite	2021-12-31	MEUCIQDq2tYvuIUcpsMlajxdTWXGNLCzlkUuooLn2DlbyWN5cwIgWBhg5ArstDtdNEXXfckZkIoqvCjAur7NVJK22C9BXCY=
+sentieon	CohortCalling	1	2021-12-31	MEUCIE7Q4gN7o4gkgSPHMhsOyCcGD7VV2GEqCWBNfoOunr9rAiEAyftIRXnvfosRIEWGXcf6UvTOJ3mwDfRYqYCK+QWQWHA=
+sentieon	VarCal	suite	2021-12-31	MEYCIQDeLlEKy8rIoiqHayLwEjsGfdchadCsQC02zii4+jBZ7AIhAKhV6i063/nJIYPbb4N0Y+0JuR2LFsXu3WYSXU/ihEdc
+sentieon	RNASplitReadsAtJunction	suite	2021-12-31	MEQCIHJoOzLkvXdpbtai02grCGIFVfytDw1+bSQGFetHL+p7AiAGbptahkT/2ZflQnJPr937ndjOO+0P/n05icqjweU7xg==
+sentieon	TNsnv	suite	2021-12-31	MEUCIC18lopLMqPRH7bLlhoVmMudUgjL/4DYGVsc5s1a34HTAiEAzvM+TaMV75nZTh5YCDtP7+rcE/5cLcXWcR5Hge67rpM=
+sentieon	TNhaplotyper	suite	2021-12-31	MEUCIAUzBR6zdxE4DGgaWdwjwRL6gMyUBsfdsSFU3wrqLYOuAiEA+JTMG55zEoOA2nFuNAP4Dr0HGVPX1Rj/tX4NjmeI9Us=
+sentieon	ContaminationAssessment	suite	2021-12-31	MEUCIF3q9Ipd3OPP9JZTodjB+zac6lbI+Xmf5q3v3McZReLcAiEAgem5vmH6356UYMmCkpk/og/mf18Bsi+6w1ugvmZ38ug=
+sentieon	TNscope	suite	2021-12-31	MEQCIA5rQJ6brfsP9QKYioVmd3ULYyC/vMaFeUIrsLC4S3txAiB4IPwpp3ZPQnZ+AKvSvmRjF63N1YmjeyA2zHwx07pKbw==
+sentieon	DNAscope	suite	2021-12-31	MEQCIHVebQC1cFBdPblm7dy4I/XNds/TWu5pNffCjUGzSfiUAiAySc/RaMKXOTKcCTuORdGH910xpl0l3SwaOQo9Ae1Uwg==
+sentieon	SVSolver	suite	2021-12-31	MEUCIQDGQwl5r3quLFFc/8P5jJ2tdndKg83MWrhg/Wgg3LW+jgIgT1arAvY6S2CbEdnDLkQQulrCe3WfKvQgxELJ5kARLfw=
+sentieon	CNV	suite	2021-12-31	MEUCIHJo3qkIYYSGG8R//VHqYLck+iE+55ql+Zw50smRpNIkAiEA7CuCXK5fYGuzvtIZiS3SJW1/NR8JcKgx+N0k4OIncfE=
+sentieon	TNcnv	suite	2021-12-31	MEQCIGO6AFyLFvRP3tg4sRHJWFqdjIBF3enf2FkQkN0sq383AiA5qfRRY24/2DePySGr5EQIl3RaWcIkZvdsJFhGJuEi+g==
